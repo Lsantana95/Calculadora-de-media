@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 800px;
+    background-image: url('./javascript-para-iniciantes-1.png');
+    background-repeat: no-repeat;
+    background-size: 1450px; 
+  }
+
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 150vh;
+  }
+
+  .page-title {
+    color:#3788ae;
+    margin: 0 0 5px;
+  }
+
+  .page-subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color:#3788ae;
+    margin-top: 5em;
+  }
+
+  .page-logo {
+    width: 200px;
+  }
+
+  .alura-logo {
+    width: 50px;
+    position: absolute;
+    top: 8px;
+    right: 30px;
+  }
+
+.subtitle {
+  margin: 0 5em;
+  color: #3788ae;
+}
+
+.fieldset {
+  margin: 1em 0;
+  padding: 1em;
+  border: 1px solid #ccc;
+}
